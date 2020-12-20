@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as SAP CRM Consultant 
+- 🔭 I’m currently working as SAP CRM Technical Consultant 
 - 🌱 I’m currently learning SAP C/4 HANA
 - 🤔 I’m looking for help with My humour
 - 💬 Ask me about anything, 
